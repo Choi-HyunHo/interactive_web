@@ -1,0 +1,20 @@
+body {
+  position: relative;
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.rose {
+  width: 1300px;
+  height: 800px;
+}
+
+.user {
+  position: absolute;
+  width: 300px;
+  z-index: 100;
+}
